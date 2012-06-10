@@ -1,1 +1,2 @@
 Hello, git!
+It is fun to use the Git!
